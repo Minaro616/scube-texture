@@ -1,0 +1,2 @@
+# scube-texture
+texturepack scube
